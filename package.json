@@ -1,0 +1,14 @@
+{
+  "name": "exercicio---tela-login",
+  "version": "1.0.0",
+  "description": "primeiro exercicio com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": " npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
